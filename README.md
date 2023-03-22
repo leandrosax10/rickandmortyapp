@@ -5,7 +5,7 @@
 
 ## Pré requesitos e como rodar a aplicação
  O que você precisará:
- * [IDE](*Vs_Code)
+ * [IDE] Vs_Code 
  * Node.js na versão 14
  * Clone do repositório
  * Instale as dependências: yarn ou yarn install
